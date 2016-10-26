@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DynamicShortcuts</string>
+
+    <string name="new_task_shortcut_short_label">New Task</string>
+    <string name="new_task_shortcut_long_label">@string/new_task_shortcut_short_label</string>
+
+    <string name="completed_tasks_shortcut_short_label">Completed</string>
+    <string name="completed_tasks_shortcut_long_label">@string/completed_tasks_shortcut_short_label</string>
+    <string name="completed_tasks_shortcut_disabled_message">Action disabled</string>
+
+    <string name="inprogress_tasks_shortcut_short_label">In-Progress</string>
+    <string name="inprogress_tasks_shortcut_long_label">@string/inprogress_tasks_shortcut_short_label</string>
+    <string name="inprogress_tasks_shortcut_disabled_message">Action disabled</string>
+</resources>
