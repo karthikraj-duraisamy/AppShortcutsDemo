@@ -13,7 +13,7 @@ Manifest shortcuts with and without backstack
 Dynamic shortcuts with and without backstack
 
 
-![Alt text](/images/dynamic_sc_backstack.png? "")![Alt text](/images/dynamic_sc_newtask? "")
-
-![Alt text](/images/dynamic_sc_backstack.png? "")![Alt text](/images/dynamic_sc_backstack_completed.png? "")![Alt text](/images/dynamic_sc_backstack_main.png? "")![Alt text](/images/dynamic_sc_homescreen.png? "")
+<img src="/images/dynamic_sc_backstack.png" width="25%"/><imag src="/images/dynamic_sc_newtask.png" width="25%")/>
+<img src="/images/dynamic_sc_backstack.png" width="25%"/><img src="/images/dynamic_sc_backstack_completed.png" width="25%"/>
+<img src="/images/dynamic_sc_backstack_main.png" width="25%"/><img src="/images/dynamic_sc_homescreen.png"/>
 
