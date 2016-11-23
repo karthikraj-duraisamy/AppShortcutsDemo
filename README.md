@@ -5,8 +5,9 @@ Manifest shortcuts with and without backstack
 
 <img src="/images/manifest_sc_newtask.png" width="25%" /><img src="/images/dynamic_sc_newtask.png?" width="25%" /><img src="/images/manifest_sc_pinned.png" width="25%" />
 
-![Alt text](/images/manifest_sc_backstack.png? "")![Alt text](/images/manifest_sc_backstack_completeted.png? "")![Alt text](/images/manifest_sc_backstack_mainscreen.png? "")
-
+<img src="/images/manifest_sc_backstack.png" width="25%" />
+<img src="/images/manifest_sc_backstack_completeted.png" width="25%" /> 
+<img src="/images/manifest_sc_backstack_mainscreen.png" width="25%" />
 
 
 Dynamic shortcuts with and without backstack
