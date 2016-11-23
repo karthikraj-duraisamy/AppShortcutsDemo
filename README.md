@@ -3,7 +3,7 @@ This project is a demo of how to implement App Shortcuts in Android application 
 
 Manifest shortcuts with and without backstack
 
-![Alt text](/images/manifest_sc_newtask.png? "")![Alt text](/images/dynamic_sc_newtask? "")![Alt text](/images/manifest_sc_pinned.png? "")
+<img src="/images/manifest_sc_newtask.png" width="25%" /><img src="/images/dynamic_sc_newtask.png?" width="25%" /><img src="/images/manifest_sc_pinned.png" width="25%" />
 
 ![Alt text](/images/manifest_sc_backstack.png? "")![Alt text](/images/manifest_sc_backstack_completeted.png? "")![Alt text](/images/manifest_sc_backstack_mainscreen.png? "")
 
